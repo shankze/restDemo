@@ -1,0 +1,55 @@
+{
+  "airports": [
+    {
+      "id": 1,
+      "title": "George Bush Intercontinental",
+       "city": "Houston",
+       "code": "IAH"
+    },
+    {
+        "id": 2,
+        "title": "William P Hobby",
+         "city": "Houston",
+         "code": "HOU"
+      },
+      {
+        "id": 3,
+        "title": "Bergstorm International",
+         "city": "Austin",
+         "code": "AUS"
+      },
+      {
+        "id": 4,
+        "title": "Dallas Fort Worth",
+         "city": "Dallas",
+         "code": "DFW"
+      }
+  ],
+  "state": {
+    "name": "Texas",
+    "code": "TX",
+  },
+  "airportCount":"3",
+  "airlines":[
+      {
+        "id":"1",  
+        "name": "United",
+        "code":"UA"
+      },
+      {
+        "id":"2",  
+        "name": "Delta",
+        "code":"DL"
+      },
+      {
+        "id":"3",  
+        "name": "Americam",
+        "code":"AA"
+      },
+      {
+        "id":"4",  
+        "name": "Southwest",
+        "code":"WN"
+      }
+  ]
+}
